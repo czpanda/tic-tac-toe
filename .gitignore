@@ -1,3 +1,6 @@
+# Mac binaries
+.DS_Store
+
 # Node dependencies
 node_modules/
 

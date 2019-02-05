@@ -5,6 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run": "node index.js"
+    "start": "node index.js",
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
   }
 }
